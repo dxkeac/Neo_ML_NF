@@ -1,0 +1,30 @@
+Feature	Nr_Categories	Category	Value
+mut_is_binding_pos	2	False	0.0
+mut_is_binding_pos	2	True	1.0
+mut_is_binding_pos	2	unknown	0.0
+bestWTMatchType_I	6	NONE	0.00952715745422458
+bestWTMatchType_I	6	PARTIAL	0.02656093289669482
+bestWTMatchType_I	6	COVER	0.03337408794059061
+bestWTMatchType_I	6	PARTIAL_MUT	0.03945717468011271
+bestWTMatchType_I	6	INCLUDED	0.06527527957714452
+bestWTMatchType_I	6	EXACT	0.8258053674512326
+bestWTMatchType_I	6	unknown	0.0
+Clonality	2	subclonal	0.29576122716464276
+Clonality	2	clonal	0.7042387728353572
+Clonality	2	unknown	0.0
+mutation_driver_statement_Intogen	5	POLYMORPHISM	0.0
+mutation_driver_statement_Intogen	5	nan	0.019240823683656646
+mutation_driver_statement_Intogen	5	PREDICTED PASSENGER	0.024404739476574545
+mutation_driver_statement_Intogen	5	KNOWN DRIVER	0.4725999519066998
+mutation_driver_statement_Intogen	5	PREDICTED DRIVER	0.48375448493306905
+mutation_driver_statement_Intogen	5	unknown	0.0
+gene_driver_Intogen	3	nan	0.08820055215213128
+gene_driver_Intogen	3	OTHER TUMOR DRIVER	0.2541661596843081
+gene_driver_Intogen	3	TUMOR DRIVER	0.6576332881635606
+gene_driver_Intogen	3	unknown	0.0
+seq_len	5	12	0.009437100828809879
+seq_len	5	8	0.03405541194770836
+seq_len	5	11	0.05677160224016679
+seq_len	5	10	0.17918936206041458
+seq_len	5	9	0.7205465229229006
+seq_len	5	unknown	0.0
