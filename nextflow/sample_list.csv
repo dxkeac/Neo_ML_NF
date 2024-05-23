@@ -1,0 +1,4 @@
+sample_id,read1,read2
+test_tumor_DNA,~/test/DNA/tumor_R1.fastq.gz,~/test/DNA/tumor_R2.fastq.gz
+test_normal_DNA,~/test/DNA/normal_R1.fastq.gz,~/test/DNA/normal_R2.fastq.gz
+test_tumor_RNA,~/test/RNA/RNA_R1.fastq.gz,~/test/RNA/RNA_R2.fastq.gz
